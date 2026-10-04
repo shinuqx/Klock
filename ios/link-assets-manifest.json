@@ -1,0 +1,25 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/JackofGearsRegular.ttf",
+      "sha1": "8fd0c8d8f6e41e079528c73be647d1f703e4b0bd"
+    },
+    {
+      "path": "assets/fonts/Technology.ttf",
+      "sha1": "36f00536068cbdb385f50467db5f1b5345f134ad"
+    },
+    {
+      "path": "assets/fonts/TechnologyBold.ttf",
+      "sha1": "38bd291eda5e6fec6d2efbf3ccd258b6986ed69c"
+    },
+    {
+      "path": "assets/fonts/TechnologyBoldItalic.ttf",
+      "sha1": "cd93aa09a95ec7f8404bb7e74b9caa8a825553e9"
+    },
+    {
+      "path": "assets/fonts/TechnologyItalic.ttf",
+      "sha1": "835f21828adb84e66caebd2358ac3dc8ec69fcda"
+    }
+  ]
+}
